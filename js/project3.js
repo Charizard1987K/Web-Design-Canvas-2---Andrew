@@ -40,7 +40,8 @@ function draw() {
     ellipse(mouseY, mouseX, 50, 50);
   //third ball
       ellipse(mouseY+200, mouseX, 50, 50);
-
+  //fourth ball
+  ellipse(mouseY, mouseX-200, 50, 50);
 }
   
  
